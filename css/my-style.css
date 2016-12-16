@@ -38,7 +38,7 @@ body {
 
 
 table {
-    border: 40px solid #9933cc;
+    border: 40px solid  #000080;
 }
 
 td{
@@ -46,25 +46,16 @@ td{
 }
 
 
-#example1 {
-    
-    padding: 50px;
-    margin-top: 5px;
 
-    
-    
-    background-size: 100%  100%;
-        
-    background-repeat: no-repeat;
-}
 
 h1   {
+
      line-height: 1.3em; color: #c11c1e;
      font-family: "Times New Roman", Times, serif;
      font-size: 20px; 
      text-align: center; 
      font-weight: 900;
-     margin-top: 0;
+     margin-top: 20px;
      margin-right: 0;
      margin-bottom: 10px; 
      margin-left: 0; 
@@ -80,6 +71,7 @@ h2 {
     font-size: 18px;
     color: #00008B;
     margin-top: 0;
+    margin-top: 10px;
 }
     
 p    {
@@ -97,7 +89,7 @@ p    {
 p.normal {
 
     color: #c11c1e;
-    font-family: hel Times, serif; 
+    font-family: "Times New Roman" Times, serif; 
     font-size: 18px; 
  }
 
@@ -122,11 +114,17 @@ a {
 
 
 .footer{
- padding-top: 30px;
- padding-bottom: 30px;
+ width: 430px;
+    height: 75px;    
+    padding: 25px;
+    
+    box-sizing: border-box;
  text-align: center;
- background-color:#9e0005;
+ background-color:#ADD8E6;
  color:#25383C;
+ margin-left: 0;
+ 
+ 
  
 }
 
