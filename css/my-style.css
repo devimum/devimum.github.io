@@ -38,7 +38,7 @@ body {
 
 
 table {
-    border: 40px solid  #000080;
+    
 }
 
 td{
@@ -83,8 +83,8 @@ p    {
 
     color: #000; 
    font-family: "Times New Roman", Times, serif;
-   font-weight: bold;
-   font-size: 18px;
+   
+   font-size: 16px;
     text-align: left;     
     font-weight: bold;
     
@@ -95,7 +95,7 @@ p.normal {
 
     color: #c11c1e;
     font-family: "Times New Roman" Times, serif; 
-    font-size: 18px; 
+    font-size: 16px; 
  }
 
 ol.points {
