@@ -38,6 +38,7 @@ body {
 
 
 table {
+    border: 40px solid #2407e1;
     
 }
 
@@ -60,7 +61,7 @@ h1   {
      margin-bottom: 10px; 
      margin-left: 0; 
      padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;
-     background-color: #FFFAF0;
+     
      
    }
 
@@ -128,7 +129,7 @@ address {
     
     box-sizing: border-box;
  text-align: center;
- background-color:#ADD8E6;
+ 
  color:#25383C;
  margin-left: 0;
  
