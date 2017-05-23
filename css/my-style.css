@@ -110,6 +110,36 @@ p    {
 
 }
 
+
+.qbo {
+
+    width: 150px;
+    height: 75px;
+     
+     box-sizing: border-box;
+
+}
+
+
+.accfin{
+
+   width: 150px;
+    height: 85px;
+    
+     box-sizing: border-box; 
+
+}
+
+.tally{
+
+width: 150px;
+    height: 75px;
+    
+     box-sizing: border-box; 
+
+
+}
+
 p.normal {
 
     color: #c11c1e;
